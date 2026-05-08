@@ -1,0 +1,9 @@
+# Never commit filled-in versions of these templates to the repo.
+# Work on copies locally; keep originals as templates.
+*-FILLED.md
+*-filled.md
+*-PRIVATE.md
+*-private.md
+filled/
+private/
+.DS_Store
